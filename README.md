@@ -5,6 +5,9 @@
 <p> Old Dominion University | Norfolk, Virginia </p>
 <p> Master of Science in Computer Science 		  Expected May 2025 </p>
 
+### ABOUT ME
+<p> Detail-oriented professional with experience in event coordination, faculty support, and technical expertise in predictive modeling and natural language processing. Skilled in organizing award ceremonies, conferences, and academic summits, ensuring smooth execution and stakeholder collaboration. Passionate about leveraging data-driven insights to solve complex problems. Adept at managing projects, designing event materials, and streamlining processes for operational efficiency. Currently expanding expertise in Salesforce and transformer-based NLP models to enhance business and research applications.</p>
+
 ###  TECHNICAL SKILLs
 <ul>
   <li>  Languages & Tools: HTML, SQL, CSS, Python, Tableau, Pandas, Seaborn,  NumPy, Git.</li>
