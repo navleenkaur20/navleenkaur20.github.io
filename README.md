@@ -1,7 +1,7 @@
 
 # DATA SCIENTIST
 
-### Education
+### EDUCATION
 <p> Old Dominion University | Norfolk, Virginia </p>
 <p> Master of Science in Computer Science 		  Expected May 2025 </p>
 
