@@ -33,4 +33,4 @@ Visualized sentiment trends using Matplotlib and Seaborn, highlighting correlati
 ### EXPERIENCE
 Working as a Graduate Assistant at Old Dominion University for the Center for Career and Leadership. 
 ### Link to Resume
-< file:///Users/navleenkaur/Downloads/Resume_navleen.docx%20(5).pdf >
+[Resume] ()
